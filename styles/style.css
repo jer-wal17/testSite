@@ -1,0 +1,32 @@
+/* Place your CSS styles in this file */
+
+#heading {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+    color:red;
+    font-size: 250%;
+}
+
+.randomimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    opacity: 0.5;
+}
+
+.lipsum {
+    width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 0 auto;
+    color: white;
+    opacity: 0.5;
+}
+
+body {
+    background-image: url("https://i.ibb.co/fqZ0QJd/IMG-4677.jpg");
+    background-size: auto;
+}
